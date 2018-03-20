@@ -2,8 +2,8 @@ title:             Christophe Foyer
 email:             christophe@cfoyer.com
 description:       Updates on my projects, activities, and more!
 author:            Christophe Foyer
-baseurl:           "/blog"
-url:               "http://www.cfoyer.com"
+baseurl:           "/"
+url:               "http://blog.cfoyer.com"
 
 # Social Profiles
 github_username:   Christophe-Foyer
