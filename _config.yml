@@ -16,7 +16,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-  
+#Google Analytics  
+google_analytics: UA-116335955-3
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
