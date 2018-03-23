@@ -54,6 +54,10 @@ $('<img/>').attr('src', '{{ page.background | prepend: site.baseurl | replace: '
         {% endif %}
 
       </div>
+      
+      {% if page.previous.url or page.next.url %}
+        <hr>
+      {% endif %}
 
       {% if site.disqus.shortname %}
         {% include disqus.html %}
