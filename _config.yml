@@ -7,6 +7,7 @@ url:               "http://blog.cfoyer.com"
 
 # Social Profiles
 github_username:   Christophe-Foyer
+linkedin_username:   christophe-foyer
 
 # Build settings
 markdown:          kramdown
